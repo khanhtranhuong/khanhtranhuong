@@ -1,0 +1,46 @@
+{
+  "name": "ironmanjo",
+  "version": "1.0.4",
+  "description": "SUPER IRONMAN CALCULATOR",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "sign-alex": "^1.0.0",
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+    "dotnetnguyen": "^1.0.0",
+    "luisnguyen451": "^1.0.0",
+    "kaolabear": "^1.0.0",
+    "hecmansuper": "^1.0.0",
+    "mariotank": "^1.0.0",
+    "ironmanjo": "^1.0.0",
+    "comandosyoyo": "^1.0.0",
+    "computernet": "^1.0.0",
+    "xisatwater": "^1.0.0",
+    "nokiaphone": "^1.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "7.21.4",
+    "@babel/preset-env": "7.21.4",
+    "@babel/preset-typescript": "7.21.4",
+    "@semantic-release/changelog": "6.0.3",
+    "@semantic-release/git": "10.0.1",
+    "@types/jest": "29.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khanhtranhuong/ironmanjo.git"
+  },
+  "homepage": "https://github.com/khanhtranhuong",
+  "keywords": [
+    "sum",
+    "number",
+    "add",
+    "tong",
+    "cong"
+  ],
+  "author": "ironmanjo",
+  "license": "IMJ"
+}
